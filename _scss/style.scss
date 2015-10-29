@@ -1,0 +1,16 @@
+// @import 'imports/normalize';
+@import 'imports/reset';
+@import 'imports/mixins';
+
+body {
+  font-family: 'Helvetica neue', Helvetica, Arial, sans-serif;
+  font-size: 62.5%;
+  font-family: sans-serif;
+  background: grey;
+}
+
+path {
+  fill: none;
+  stroke:white;
+
+}
